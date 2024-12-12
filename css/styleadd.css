@@ -1,4 +1,4 @@
-/* Reset mặc định */
+
 body, h1, form, input, select, label, button, a {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@ body, h1, form, input, select, label, button, a {
     font-family: Arial, sans-serif;
 }
 
-/* Nền và bố cục tổng thể */
+
 body {
     background-color: #f4f4f9;
     color: #333;
